@@ -1,1 +1,1 @@
-docker: amazon/aws-cli
+docker: dragonflyscience/dragonverse-20.04
