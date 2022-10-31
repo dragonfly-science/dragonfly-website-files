@@ -1,1 +1,1 @@
-docker: garland/aws-cli-docker:1.16.140
+docker: zulhfreelancer/aws-cli-v2-on-ubuntu
