@@ -1,1 +1,1 @@
-docker: dragonflyscience/dragonverse-20.04
+docker: garland/aws-cli-docker:1.16.140
